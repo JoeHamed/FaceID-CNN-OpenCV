@@ -55,16 +55,17 @@ Use your webcam to predict head poses in real time
 
 
 ## ✅ Pose Labels (Example)
-Label	Description
-forward	Looking straight at camera
-up	Looking up
-down	Looking down
-left	Looking left
-right	Looking right
-up-left	Looking up and left
-up-right	Looking up and right
-down-left	Looking down and left
-down-right	Looking down and right
+| Label      | Description                |
+|----------- |---------------------------|
+| forward    | Looking straight at camera |
+| up         | Looking up                 |
+| down       | Looking down               |
+| left       | Looking left               |
+| right      | Looking right              |
+| up-left    | Looking up and left        |
+| up-right   | Looking up and right       |
+| down-left  | Looking down and left      |
+| down-right | Looking down and right     |
 
 
 ## 🚀 Future Improvements
