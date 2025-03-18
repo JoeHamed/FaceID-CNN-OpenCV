@@ -14,11 +14,9 @@ This project provides a pipeline for:
 │   └── dataset/
 │       └── [person_name]/
 │           └── [pose_label].jpg
-├── model/
-│   └── head_pose_model.pth
-├── capture.py
-├── train.py
-├── inference.py
+├── Main_Model.py
+├── SetUpID_Mediapipe.py
+├── TranferLearningModel.py
 └── README.md
 ```
 
